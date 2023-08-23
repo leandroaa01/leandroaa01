@@ -20,7 +20,7 @@
              <img align ="center" alt="html5" src ="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
               <img align ="center" alt="html5" src ="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
 </div><br/>
-Sou um estudante de Informática em meu último ano de graduação.
+Sou um estudante de Informática e estou em meu último ano de graduação.
 
 ## Últimos projetos:
 - [Criação do sistema SEE UP](https://github.com/leandroaa01/SEEUP)
