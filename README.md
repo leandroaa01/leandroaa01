@@ -1,7 +1,9 @@
 ### Olá! Meu nome é Leandro Andrade 😊
  Bem Vindo ao Meu Perfil 🖐️
-
-[![linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://l.instagram.com/?u=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fleandro-andrade-92873224a&e=AT0KIk0Zxnk3iYgtZ-YHKYzCaPz1Cdg5nxE2fNS1cyW2BBLWBuqciMK8WcR18ZsxdoVc_8-IxSohWq2mZTGaCyllqc04AJbixWMHXUjoETgtD60CCvwtMw)
+ 
+[![linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-andrade-92873224a/)
+[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](leandro.andrade.araujo00@gmail.com)
+[![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leandroaa01/)
 
 ![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=leandroaa01&show_icons=true&theme=dracula) 
 
