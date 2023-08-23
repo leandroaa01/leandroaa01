@@ -7,7 +7,7 @@
 
 ![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=leandroaa01&show_icons=true&theme=dracula) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroaa01&hide=javascript,html)
+![Minhas linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroaa01&hide=javascript,html)
 ## Tecnologias que eu uso 
 <div style = "display: inline_block"><br/>
     <img align ="center" alt="html5" src ="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
