@@ -24,3 +24,4 @@ Sou um estudante de Informática e estou em meu último ano de graduação.
 
 ## Últimos projetos:
 - [Criação do sistema SEE UP](https://github.com/leandroaa01/SEEUP)
+- [Criação dashboards](https://github.com/leandroaa01/Meus-Dashboards/blob/main/Link%20dashboards%20Criados)
