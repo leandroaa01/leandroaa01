@@ -13,7 +13,7 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leandroaa01&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=4169E1&text_color=4169E1&bg_color=0d1117" alt="Leandro Andrade github stats" /> 
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leandroaa01&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=4169E1&text_color=4169E1&bg_color=0d1117" alt="Leandro Andrade github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroaa01&layout=compact&hide_border=true&title_color=4169E1&text_color=4169E1&bg_color=0d1117" />
  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leandroaa01&bg_color=000b11&color=4169E1&line=00ccff&point=04a2f1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
