@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=header"/>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00008B&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Leandro+Andrade+😊;I'm+18+years+old;I+from+Brasil,+RN;I+study+informatics+at+IFRN;Be+Welcome!+:%29)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00008B&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Leandro+Andrade+😊;I'm+18+years+old;I+from+Brasil,+RN;I+study+computer+science;Be+Welcome!+:%29)](https://git.io/typing-svg)
  
 
 <div align="center"> 
@@ -24,7 +24,7 @@
 
 
 
-## Tecnologias que eu uso 
+## 🚀 Tecnologias que eu uso 
 <div style = "display: inline_block"><br/>
     <img align ="center" alt="html5" src ="https://img.shields.io/badge/JavaScript-00000F?style=for-the-badge&logo=javascript&logoColor=white">
       <img align ="center" alt="html5" src ="https://img.shields.io/badge/CSS3-00000F?style=for-the-badge&logo=css3&logoColor=white">
@@ -38,9 +38,9 @@
 </div><br/>
 Eu amo aprender coisas novas sobre computação. É sempre um desafio estimulante
 
-## Últimos projetos:
-- [Criação do sistema SEE UP](https://github.com/leandroaa01/SEEUP)
-- [Criação dashboards](https://github.com/leandroaa01/Meus-Dashboards/blob/main/Link%20dashboards%20Criados)
+## 💻 Últimos projetos:
+- [Landing Page: Kaiju Nº 8](https://github.com/leandroaa01/projeto-kaiju-no-8)
+- [Portfolio pessoal](https://github.com/leandroaa01/portfolio-leandro)
 
 
  <div align="center">
