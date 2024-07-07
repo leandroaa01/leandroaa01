@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=header"/>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00008B&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Leandro+Andrade+😊;I'm+18+years+old;I+from+Brasil,+RN;I+study+computer+science;Be+Welcome!+:%29)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00008B&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Leandro+Andrade+😊;I'm+19+years+old;I+from+Brasil,+RN;I+study+computer+science;Be+Welcome!+:%29)](https://git.io/typing-svg)
  
 
 <div align="center"> 
@@ -40,7 +40,18 @@ Eu amo aprender coisas novas sobre computação. É sempre um desafio estimulant
 
 ## 💻 Últimos projetos:
 - [Landing Page: Kaiju Nº 8](https://github.com/leandroaa01/projeto-kaiju-no-8)
-- [Portfolio pessoal](https://github.com/leandroaa01/portfolio-leandro)
+- [Shao Commerce](https://github.com/leandroaa01/Shao-Commerce)
+- [Curso da Devlinks](https://github.com/leandroaa01/curso-Devlinks)
+
+
+## 📷 Imagens:
+
+ <div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/leandroaa01/projeto-kaiju-no-8/raw/main/src/imagens/preview.png" alt="Imagem 1" style="width: 30%;">
+  <img src="https://github.com/PeterKart/Shao-commerce/raw/main/src/main/resources/static/img/preview.png" alt="Imagem 2" style="width: 30%;">
+  <img src="https://github.com/leandroaa01/curso-Devlinks/raw/main/github/preview.jpg" alt="Imagem 1" style="width: 30%; height: 170px;">
+</div>
+
 
 
  <div align="center">
