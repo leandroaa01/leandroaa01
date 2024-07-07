@@ -49,7 +49,7 @@ Eu amo aprender coisas novas sobre computação. É sempre um desafio estimulant
  <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/leandroaa01/projeto-kaiju-no-8/raw/main/src/imagens/preview.png" alt="Imagem 1" style="width: 30%;">
   <img src="https://github.com/PeterKart/Shao-commerce/raw/main/src/main/resources/static/img/preview.png" alt="Imagem 2" style="width: 30%;">
-  <img src="https://github.com/leandroaa01/curso-Devlinks/raw/main/github/preview.jpg" alt="Imagem 1" style="width: 30%; height: 157px;">
+  <img src="https://github.com/leandroaa01/curso-Devlinks/raw/main/github/preview.jpg" alt="Imagem 1" style="width: 30%; height: 153px;">
 </div>
 
 
