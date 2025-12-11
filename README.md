@@ -66,5 +66,11 @@ Eu amo aprender coisas novas sobre computação. É sempre um desafio estimulant
   <img src="https://github.com/leandroaa01/curso-Devlinks/raw/main/github/preview.jpg" alt="Imagem 1" style="width: 30%; height: 153px;">
 </div> -->
 
+###
+
+<div align="center">
+  <img src="https://count.getloli.com/@:leandroaa01?theme=3d-num&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=013750B&height=120&section=footer"/>
